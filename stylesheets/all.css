@@ -54,6 +54,11 @@ a img {
 article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section, summary {
   display: block; }
 
-/* line 3, /Users/ian/Code/utahstartups/utahstartups/source/stylesheets/all.scss */
-#map {
-  height: 150px; }
+/* line 2, /Users/ian/Code/utahstartups/utahstartups/source/stylesheets/all.scss */
+body {
+  padding: 0;
+  margin: 0; }
+
+/* line 7, /Users/ian/Code/utahstartups/utahstartups/source/stylesheets/all.scss */
+html, body, #map {
+  height: 100%; }
