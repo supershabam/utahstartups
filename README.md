@@ -1,7 +1,7 @@
 utahstartups
 ============
 
-Utah has some cool startup companies living in it, and I wanted a visual way to see those companies in a maintainable and community-driven way. So, make a pull-request, add a startup that I'm missing!
+Utah has some cool startup companies living in it, and I wanted a visual way to see those companies in a maintainable and community-driven way. So, make a pull-request! Open an issue!
 
 ## adding a company
 
